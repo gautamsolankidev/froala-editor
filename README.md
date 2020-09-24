@@ -18,4 +18,4 @@ add you upload image url  and remove image url in config/froala.php
 
 
 ## Support
- for any questions contact me at : `elsayed_nofal@ymail.com`
+ for any questions contact me at : `sup`
